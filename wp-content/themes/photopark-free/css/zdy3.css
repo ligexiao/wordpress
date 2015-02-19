@@ -1,0 +1,37 @@
+@charset "utf-8";
+body{background: url(../images/bj26.jpg); margin:0px; float:left; padding:40px; }
+.tud2{ width:100%; float:left; background:}
+.tud2 .tud2_1{ width:30%; border:5px solid #313131; overflow:hidden; float:left; overflow:hidden;}
+.tud2 .tud2_1 img{ width:100%; height:auto;}
+.tud2 .tud2_2{ width:65%; float:right;}
+.tud2 .tud2_2 .tt1{
+	height:30px;
+	font-family: "微软雅黑";
+	font-size: 13px;
+	line-height: 30px;
+	color: #333333;
+	text-decoration: none;
+}
+.tud2 .tud2_2 .tt1 a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #f62727;
+	text-decoration: none;
+}
+.tud2 .tud2_2 .tt2{
+	height:30px;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	line-height: 30px;
+	color: #333333;
+	text-decoration: none;
+}
+.tud2 .tud2_2 .tt3{
+    padding-bottom:160px;
+	background:url(../images/tt4.jpg) no-repeat bottom right;
+	font-size: 13px;
+	line-height: 22px;
+	color: #333333;
+	text-decoration: none;
+}
+.enter  #parent{ display:none;}

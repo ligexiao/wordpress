@@ -1,0 +1,16 @@
+body{ width:98%;padding:5px 1%; }
+p {color: #666666; font-size:14px; line-height:24px;margin: 0 0 10px !important;}
+.pre {background: none repeat scroll 0 0 #333; color:#6C0; font-size: 12px; overflow: auto; padding: 11px;}
+pre,code {background: none repeat scroll 0 0 #333; color:#6C0; font-size: 12px; overflow: auto; padding: 11px;}
+.huangse {background: none repeat scroll 0 0 #F8FFE1; border:1px solid #CDD898; color: #666666; font-size: 12px; overflow: auto; padding: 11px;}
+.bt_enter{background: url("../images/smoll_pic.png") no-repeat scroll 0 -1572px rgba(0, 0, 0, 0); border-bottom: 1px dashed #CCCCCC; color: #006666; font-weight: bold; margin:10px 0;  padding-left: 24px;}
+a {color: #0099FF; text-decoration: underline;}
+.img { height: auto; max-width: 100%;}
+/** 图文混排 **/  
+img.centered  { display: block;margin-left: auto; margin-right: auto;margin-bottom: 10px; }   
+img.alignnone {margin: 0 0 10px 0;display: inline;  }   
+img.alignright {margin: 0 0 10px 10px; display: inline; }   
+img.alignleft {margin: 0 10px 10px 0;display: inline;}   
+.aligncenter {display: block; margin-left: auto;   margin-right: auto; margin-bottom: 10px;     }   
+.alignright { float: rightright; margin: 0 0 10px 10px;}   
+.alignleft {float: left; margin: 0 10px 10px 0; }  

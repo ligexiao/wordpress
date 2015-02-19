@@ -1,0 +1,42 @@
+== Changelog ==
+
+= Theme Name: Figero Theme =
+
+= Version: 1.5.3 =
+* Theme url changed.
+* Removed query_posts and used wp_query instead.
+* Removed wp_enqueue_script('jquery').
+* Escaped all urls.
+* Function added for title filter.
+* Option added for disable default front page.
+* Meta keyword, meta description and meta author removed from header.php.
+* Site title and site description added in header, if site logo uploaded via theme option, site title and description will be disappeared.
+
+= Version: 1.5.2 =
+* Removed analytic option.
+* All supporting function hooked into after_setup_theme hook.
+* Added plugins notification for recommends plugin.
+* Replace preg_replace function with ereg_replace.
+
+= Version: 1.5.1 =
+* Issue get_theme_data is deprecated since version 3.4! is now fixed.
+* Removed @package WordPress.
+* Function prefix issue fixed.
+
+
+= Version: 1.5 =
+* Logo not working fixed
+
+= Version: 1.4 =
+* Category page don't display properly fixed.
+* Debug errors fixed.
+
+= Version: 1.3 =
+* Google analytics code issue fixed.
+* Readme file added.
+* Debug issue fixed.
+* Category page don't display properly issue fixed.
+* Enqueue script issue fixed.
+* Comment reply thread resolved.
+* Admin stylesheet enqueue resolved.
+* Theme support function hooks resolved.
